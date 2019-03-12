@@ -1,3 +1,8 @@
+/*
+Nama : SIna Mustopa
+NPM : 140810180017
+KELAS :  A
+*/
 #include <iostream>
 
 using namespace std;
